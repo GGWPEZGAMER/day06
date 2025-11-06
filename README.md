@@ -51,13 +51,13 @@ To switch the clusters
 ```bash
 kubectl config use-context my-cluster-name
 ```
-
-Check out the today's lecture from Original Mentor #Piyushsachdeva
-Youtube - https://youtu.be/RORhczcOrWs?si=5Txmm9nzYpTjYrPI
-Github - https://github.com/piyushsachdeva/CKA-2024/blob/main/Resources/Day06/readme.md
-
-#Kubernetes #Docker # DevOps #TechLearning #Containerization #CloudOps
-#piyushsachdeva #TheCloudOpsCommunity
+  
+Check out the today's lecture from Original Mentor #Piyushsachdeva  
+Youtube - https://youtu.be/RORhczcOrWs?si=5Txmm9nzYpTjYrPI  
+Github - https://github.com/piyushsachdeva/CKA-2024/blob/main/Resources/Day06/readme.md  
+  
+#Kubernetes #Docker # DevOps #TechLearning #Containerization #CloudOps  
+#piyushsachdeva #TheCloudOpsCommunity  
 
 
 
