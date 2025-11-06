@@ -19,8 +19,8 @@ Creating Cluster
 ```bash
 kind create cluster --image kindest/node:v1.29.12@sha256:62c0672ba99a4afd7396512848d6fc382906b8f33349ae68fb1dbfe549f70dec --name cka-cluster1
 ```
-Above reference link - https://kind.sigs.k8s.io/docs/user/quick-start/#installing-from-release-binaries  
-kind image link - https://github.com/kubernetes-sigs/kind/releases  
+Reference link - https://kind.sigs.k8s.io/docs/user/quick-start/#installing-from-release-binaries    
+Kind image link - https://github.com/kubernetes-sigs/kind/releases      
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 To check created cluster information  
 ```bash
@@ -51,6 +51,13 @@ To switch the clusters
 ```bash
 kubectl config use-context my-cluster-name
 ```
+
+Check out the today's lecture from Original Mentor #Piyushsachdeva
+Youtube - https://youtu.be/RORhczcOrWs?si=5Txmm9nzYpTjYrPI
+Github - https://github.com/piyushsachdeva/CKA-2024/blob/main/Resources/Day06/readme.md
+
+#Kubernetes #Docker # DevOps #TechLearning #Containerization #CloudOps
+#piyushsachdeva #TheCloudOpsCommunity
 
 
 
